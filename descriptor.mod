@@ -1,6 +1,6 @@
 version="1"
 dependencies = {
-	"The Road to 56 [Beta]"
+	"The Road to 56"
 }
 tags={
 	"National Focuses"
