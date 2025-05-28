@@ -1,4 +1,7 @@
 version="1"
+dependencies = {
+	"The Road to 56 [Beta]"
+}
 tags={
 	"National Focuses"
 	"Balance"
